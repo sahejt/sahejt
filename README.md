@@ -17,6 +17,6 @@ Check my portfolio: <a href="https://sahejtuli.com">https://sahejtuli.com<a></p>
   
   <h2 align="left">📊 GitHub Stats</h1> 
 
+![](https://github-readme-stats.vercel.app/api?username=sahejt&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahejt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
