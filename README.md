@@ -36,9 +36,11 @@ Check my portfolio: <a href="https://sahejtuli.com">https://sahejtuli.com<a></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
 </div>
 
-###
+
+  <h1 align="left">📊 GitHub Stats</h1>
+
   
-  # 📊 GitHub Stats:
+###
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahejt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
